@@ -15,3 +15,4 @@
 
 # Add a feed source
 echo 'src-git kenzo https://github.com/xiaobili/openwrt-packages' >>feeds.conf.default
+echo 'src-git small https://github.com/xiaobili/small' >>feeds.conf.default
